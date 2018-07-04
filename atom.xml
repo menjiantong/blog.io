@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://menjiantong.github.io/"/>
-  <updated>2018-07-02T10:31:32.000Z</updated>
+  <updated>2018-07-04T04:30:04.000Z</updated>
   <id>https://menjiantong.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About this blog</title>
+    <link href="https://menjiantong.github.io/2018/07/04/blog/"/>
+    <id>https://menjiantong.github.io/2018/07/04/blog/</id>
+    <published>2018-07-04T04:17:27.000Z</published>
+    <updated>2018-07-04T04:30:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个博客将会更新一些个人写的文章，算法讲解，随想随记一类的，而关于题解还是放在了<a href="http://www.cnblogs.com/mjtcn/" target="_blank" rel="external">博客园</a>。</p><p>这个博客是基于github+hexo，搭建，比较稳定，以前用免费空间+免费域名搭建过，由于本人学生党，只能用免费的，而且还不稳定，也没有时间精力维护，于是就放在了github上。主题用的是<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个博客将会更新一些个人写的文章，算法讲解，随想随记一类的，而关于题解还是放在了&lt;a href=&quot;http://www.cnblogs.com/mjtcn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;博客园&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;这个博客是基于git
+      
+    
+    </summary>
+    
+    
+      <category term="随记" scheme="https://menjiantong.github.io/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
